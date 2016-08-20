@@ -1,0 +1,15 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-style:groove;
+    width: 40%;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.cell {
+    height: 10em;
+    width: 30%;
+    margin-bottom: 0.1em;
+    border-style:groove;
+}
